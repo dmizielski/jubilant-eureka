@@ -1,0 +1,11 @@
+C:\Users\xsemi\source\repos\SklepMuzyczny\SklepMuzyczny.Data.Sql\bin\Debug\netcoreapp2.2\SklepMuzyczny.Data.Sql.deps.json
+C:\Users\xsemi\source\repos\SklepMuzyczny\SklepMuzyczny.Data.Sql\bin\Debug\netcoreapp2.2\SklepMuzyczny.Data.Sql.dll
+C:\Users\xsemi\source\repos\SklepMuzyczny\SklepMuzyczny.Data.Sql\obj\Debug\netcoreapp2.2\SklepMuzyczny.Data.Sql.csprojAssemblyReference.cache
+C:\Users\xsemi\source\repos\SklepMuzyczny\SklepMuzyczny.Data.Sql\obj\Debug\netcoreapp2.2\SklepMuzyczny.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\xsemi\source\repos\SklepMuzyczny\SklepMuzyczny.Data.Sql\obj\Debug\netcoreapp2.2\SklepMuzyczny.Data.Sql.AssemblyInfoInputs.cache
+C:\Users\xsemi\source\repos\SklepMuzyczny\SklepMuzyczny.Data.Sql\obj\Debug\netcoreapp2.2\SklepMuzyczny.Data.Sql.AssemblyInfo.cs
+C:\Users\xsemi\source\repos\SklepMuzyczny\SklepMuzyczny.Data.Sql\bin\Debug\netcoreapp2.2\SklepMuzyczny.Data.Sql.runtimeconfig.json
+C:\Users\xsemi\source\repos\SklepMuzyczny\SklepMuzyczny.Data.Sql\bin\Debug\netcoreapp2.2\SklepMuzyczny.Data.Sql.runtimeconfig.dev.json
+C:\Users\xsemi\source\repos\SklepMuzyczny\SklepMuzyczny.Data.Sql\bin\Debug\netcoreapp2.2\SklepMuzyczny.Data.Sql.pdb
+C:\Users\xsemi\source\repos\SklepMuzyczny\SklepMuzyczny.Data.Sql\obj\Debug\netcoreapp2.2\SklepMuzyczny.Data.Sql.dll
+C:\Users\xsemi\source\repos\SklepMuzyczny\SklepMuzyczny.Data.Sql\obj\Debug\netcoreapp2.2\SklepMuzyczny.Data.Sql.pdb
