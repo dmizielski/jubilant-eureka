@@ -1,2 +1,2 @@
-# jubilant-eureka
-Wszystko co zostało wykonane przeze mnie
+# Sklep muzyczny
+C#/.NET Core
